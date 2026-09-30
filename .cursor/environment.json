@@ -1,0 +1,4 @@
+{
+  "name": "smolagents",
+  "install": "bash .cursor/install.sh"
+}
